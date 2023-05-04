@@ -1,11 +1,10 @@
-import FunctionClick from './FunctionClick';
-import CFunctionClick from './CFunctionClick';
+import ProductList from './ProductList';
 
 function App() {
   return (
     <div>
-      <FunctionClick />
-      <CFunctionClick />
+      <ProductList />
+
     </div>
   );
 }
