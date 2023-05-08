@@ -1,10 +1,11 @@
-import ProductList from './ProductList';
+import React from 'react';
+import List from './List';
 
 function App() {
   return (
     <div>
-      <ProductList />
-
+      <List />
+      Hello world
     </div>
   );
 }
