@@ -1,11 +1,12 @@
 import React from 'react';
 import List from './List';
+import State from './State';
 
 function App() {
   return (
     <div>
       <List />
-      Hello world
+      <State />
     </div>
   );
 }
